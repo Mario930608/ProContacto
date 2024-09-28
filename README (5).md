@@ -57,7 +57,7 @@ Pregunta: Las siguientes preguntas están diseñadas para evaluar la comprensió
     El verbo que utiliza una página cuando accedemos desde el navegador es HTTP GET. Este también se utiliza cuando se sigue un enlace.
 
 8.	#### Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
-    __*Repuesta:*__ JSON es más conciso y fácil de leer, mientras que XML tiene una estructura más compleja con etiquetas. JSON se usa comúnmente en aplicaciones web modernas, en comparación con XML, que generalmente se utiliza para sistemas más antiguos.
+    JSON es más conciso y fácil de leer, mientras que XML tiene una estructura más compleja con etiquetas. JSON se usa comúnmente en aplicaciones web modernas, en comparación con XML, que generalmente se utiliza para sistemas más antiguos.
 
 ## Estructura JSON
 
@@ -104,13 +104,13 @@ Pregunta: Las siguientes preguntas están diseñadas para evaluar la comprensió
 ```   
 
 9.	#### Explicar brevemente el estándar SOAP
-    __*Repuesta:*__ SOAP es un protocolo de mensajería que permite la comunicación entre aplicaciones distribuidas a través de redes, utilizando formato XML. Dada su robustez y nivel de seguridad, se emplea en sectores que requieren alta protección de datos, como bancos, hospitales y servicios de telecomunicaciones. Sin embargo, SOAP es considerado más complejo que REST, que requiere menos mantenimiento y esfuerzo. Esto hace que los clientes que no necesitan altos niveles de seguridad ni transacciones complejas opten por utilizar REST.
+    SOAP es un protocolo de mensajería que permite la comunicación entre aplicaciones distribuidas a través de redes, utilizando formato XML. Dada su robustez y nivel de seguridad, se emplea en sectores que requieren alta protección de datos, como bancos, hospitales y servicios de telecomunicaciones. Sin embargo, SOAP es considerado más complejo que REST, que requiere menos mantenimiento y esfuerzo. Esto hace que los clientes que no necesitan altos niveles de seguridad ni transacciones complejas opten por utilizar REST.
 
 10.	#### Explicar brevemente el estándar REST Full
-    __*Repuesta:*__ se refiere al estilo arquitectónico que sigue ciertos principios y restricciones para diseñar servicios web. Se basa en conceptos como la representación de recursos, la utilización de métodos HTTP y la separación entre cliente y servidor.
+    Se refiere al estilo arquitectónico que sigue ciertos principios y restricciones para diseñar servicios web. Se basa en conceptos como la representación de recursos, la utilización de métodos HTTP y la separación entre cliente y servidor.
 
 11.	#### ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
-    __*Repuesta:*__ Los headers en un request son elementos clave que proporcionan información adicional sobre la solicitud que se está haciendo a un servidor. Se envían junto con la solicitud HTTP para obtener datos adicionales.
+    Los headers en un request son elementos clave que proporcionan información adicional sobre la solicitud que se está haciendo a un servidor. Se envían junto con la solicitud HTTP para obtener datos adicionales.
 
 El key Content-Type es el que le indica al servidor cómo debe interpretar los datos que recibe, por ejemplo, application/json ó text/html. Así se podrá garantizar una comunicación efectiva entre el cliente y el servidor.
 
@@ -154,6 +154,8 @@ El key Content-Type es el que le indica al servidor cómo debe interpretar los d
 
 ## Ejercicio 4
 
+
+#### *__Acceso a perfil Trailhead de Salesforce:__*
 [![Mi perfil de Salesforce](img/Salesforce.png)](https://www.salesforce.com/trailblazer/alejandroart)
 
 
