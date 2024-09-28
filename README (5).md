@@ -1,5 +1,7 @@
+![Imagen Princial](img/Pro-Sales)
+
 # Alejandro Artunduaga
-![icon](https://www.numm.fr/wp-content/uploads/2019/03/logo-salesforce-200x200.png)
+
 
 ## Ejercicio 1
 
