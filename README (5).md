@@ -154,7 +154,7 @@ El key Content-Type es el que le indica al servidor cómo debe interpretar los d
 
 ## Ejercicio 4
 
-[![Mi perfil de Salesforce](img/LogoSalesforce.png)]([https://www.linkedin.com/in/tu-perfil](https://www.salesforce.com/trailblazer/alejandroart))
+[![Mi perfil de Salesforce](img/LogoSalesforce.png)](https://www.salesforce.com/trailblazer/alejandroart))
 
 
 
