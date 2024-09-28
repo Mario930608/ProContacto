@@ -158,6 +158,7 @@ El key Content-Type es el que le indica al servidor cómo debe interpretar los d
 #### *__Acceso a perfil Trailhead de Salesforce:__*
 [![Mi perfil de Salesforce](img/Salesforce.png)](https://www.salesforce.com/trailblazer/alejandroart)
 
+**Haz clic en la imagen para acceder a mi perfil de Trailhead**
 
 
 ## Ejercicio 5
