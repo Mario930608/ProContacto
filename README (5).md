@@ -34,7 +34,7 @@ Pregunta: Las siguientes preguntas están diseñadas para evaluar la comprensió
     
     Es una parte de la URL que contiene datos que se envían al servidor para modificar o filtrar la respuesta. Cuando observamos una URL, es la parte que se presenta después del signo "?".
   	
-Ejemplo: <https://www.youtube.com/results?search_query=correlacion+en+excel>
+    Ejemplo: <https://www.youtube.com/results?search_query=correlacion+en+excel>
 
 6.	#### ¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
     Es el número enviado por el servidor que recibe de vuelta el cliente según la solicitud. Con este número se sabrá si la solicitud fue exitosa, errónea o requiere una modificación.
