@@ -5,7 +5,8 @@
 
 ## Ejercicio 1
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imagen Princial](img/Actividad#1.png)
+
 ## Ejercicio 2
 
 Pregunta: Las siguientes preguntas están diseñadas para evaluar la comprensión del protocolo HTTP. Estas preguntas son independientes del lenguaje de programación, con el objetivo de profundizar en los conceptos fundamentales del estándar:
