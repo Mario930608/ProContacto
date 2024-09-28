@@ -134,7 +134,7 @@ El key Content-Type es el que le indica al servidor cómo debe interpretar los d
 
 ```
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Act3.1](img/Actividad3POS.png)
 
 
 
@@ -143,7 +143,7 @@ El key Content-Type es el que le indica al servidor cómo debe interpretar los d
 <https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json>
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Act3.1](img/Actividad3GET2.png)
 
 ### Comparación de los Resultados
 
@@ -153,6 +153,12 @@ El key Content-Type es el que le indica al servidor cómo debe interpretar los d
 *__Punto 2:__* Este request nos muestra la tabla actualizada después de haber agregado un usuario adicional.
 
 ## Ejercicio 4
+
+[![Mi perfil de Salesforce](https://ejemplo.com/mi-imagen.png)](https://www.linkedin.com/in/tu-perfil)
+
+
+
+## Ejercicio 5
 
 Conceptos sobre los datos almacenados en Salesforce:
 
@@ -176,9 +182,9 @@ __9.__ *Case:* Representa una solicitud de soporte o incidencia presentada por u
 
 __10.__ *Article:* Son documentos o guías que contienen información útil para resolver problemas o consultas frecuentes.
 
-## Ejercicio 5
+## Diagrama
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Act3.1](img/DiagramaProContacto.drawio.png)
 
 
 ## Ejercicio 6
