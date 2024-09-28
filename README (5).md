@@ -5,7 +5,7 @@
 
 ## Ejercicio 1
 
-![Ej1](img/Actividad #1.png)
+![Act1](img/Actividad#1.png)
 
 ## Ejercicio 2
 
