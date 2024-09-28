@@ -120,7 +120,7 @@ El key Content-Type es el que le indica al servidor cómo debe interpretar los d
 
 <https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json>
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Act3.1](img/Actividad3GET.png)
 
 
 2.	Se realiza una solicitud POST a la URL anterior con el cuerpo:
