@@ -1,4 +1,4 @@
-![Imagen Princial](img/impresion.png)
+![Imagen Princial](img/Pro-Sales.png)
 
 # Alejandro Artunduaga
 
@@ -154,7 +154,7 @@ El key Content-Type es el que le indica al servidor cómo debe interpretar los d
 
 ## Ejercicio 4
 
-[![Mi perfil de Salesforce](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg)](https://www.salesforce.com/trailblazer/alejandroart)
+[![Mi perfil de Salesforce](img/LogoSalesforce.png)](https://www.salesforce.com/trailblazer/alejandroart)
 
 
 
