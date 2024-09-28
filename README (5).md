@@ -1,4 +1,4 @@
-![Imagen Princial](impresion.png)
+![Imagen Princial](img/impresion.png)
 
 # Alejandro Artunduaga
 
