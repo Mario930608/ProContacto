@@ -5,7 +5,7 @@
 
 ## Ejercicio 1
 
-![Imagen Princial](img/Actividad#1.png)
+![Imagen Princial](img/img/Actividad #1.png)
 
 ## Ejercicio 2
 
